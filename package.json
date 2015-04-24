@@ -1,0 +1,14 @@
+{
+  "name": "spr",
+  "author": "Andrew Pazniak <andrew@eyefitu.com>",
+  "private": false,
+  "main": "spr.js",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "A script to glue js files in a sprockets-like manner",
+  "dependencies": {
+    "async": "^0.9.0",
+    "lodash": "^3.7.0",
+    "vinyl-fs": "^1.0.0"
+  }
+}
